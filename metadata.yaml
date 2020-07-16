@@ -1,11 +1,16 @@
 _repo: Memorials-of-Shrewsbury-being-a-concise-description-of-the-town-and-its-environs-adapted-as-a__62621
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62621-h/images/cover.jpg
 creator:
   author:
     agent_name: Pidgeon, Henry
     gutenberg_agent_id: '52037'
     url: http://www.gutenberg.org/2009/agents/52037
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62621#Memorials-of-Shrewsbury-being-a-concise-description-of-the-town-and-its-environs-adapted-as-a_
 gutenberg_issued: '2020-07-12'
 gutenberg_type: Text
 identifiers:
